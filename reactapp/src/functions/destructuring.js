@@ -14,4 +14,3 @@ function getUserIpDetails(userResponse = {}) {
             // console.log(getTopThree([10])); // [10, null, null]
 
             export { getUserIpDetails,getTopThree};
-}
